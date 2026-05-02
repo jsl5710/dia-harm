@@ -7,7 +7,7 @@
   <a href="https://github.com/jsl5710/dia-harm"><strong>Code &amp; Data</strong></a>
 </p>
 
-**Jason Lucas**<sup>1</sup>, **Matt Murtagh**<sup>*3</sup>, **Ali Al-Lawati**<sup>*1</sup>, **Uchendu Uchendu**<sup>1</sup>, **Adaku Uchendu**<sup>2</sup>, **Dongwon Lee**<sup>1</sup>
+**Jason Lucas**<sup>1</sup>, **Matt Murtagh-White**<sup>*3</sup>, **Ali Al-Lawati**<sup>*1</sup>, **Uchendu Uchendu**<sup>1</sup>, **Adaku Uchendu**<sup>2</sup>, **Dongwon Lee**<sup>1</sup>
 
 <sup>1</sup>The Pennsylvania State University &nbsp; <sup>2</sup>MIT Lincoln Laboratory &nbsp; <sup>3</sup>The University of Dublin
 
@@ -68,7 +68,7 @@ If you use DIA-HARM in your research, please cite:
 ```bibtex
 @inproceedings{lucas2026diaharm,
   title={DIA-HARM: Dialectal Disparities in Harmful Content Detection Across 50 English Dialects},
-  author={Lucas, Jason and Murtagh, Matt and Al-Lawati, Ali and Uchendu, Uchendu and Uchendu, Adaku and Lee, Dongwon},
+  author={Lucas, Jason S. and Murtagh-White, Matt and Al-Lawati, Ali and Uchendu, Uchendu and Uchendu, Adaku and Lee, Dongwon},
   booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Main Conference},
   year={2026},
   eprint={2604.05318},
